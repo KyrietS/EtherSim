@@ -1,5 +1,5 @@
 # EtherSim
 
-Sandboksowy edytor topologii sieci komputerowej, w którym mo¿na symulowaæ przep³yw informacji pomiêdzy urz¹dzeniami koñcowymi. Wa¿nym aspektem symulacji jest wykrywanie i rozwi¹zywanie kolizji na ³¹czu.
+Sandboksowy edytor topologii sieci komputerowej, w ktÃ³rym moÅ¼na symulowaÄ‡ przepÅ‚yw informacji pomiÄ™dzy urzÄ…dzeniami koÅ„cowymi. WaÅ¼nym aspektem symulacji jest wykrywanie i rozwiÄ…zywanie kolizji na Å‚Ä…czu.
 
 ![Screenshot](screenshot.png)
